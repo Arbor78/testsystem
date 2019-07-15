@@ -3,7 +3,7 @@
 <round id="1" name="基础知识" font_size="48">
 	<exercise>
 		<question font_size="18">第1题题干 这是问题</question>
-		<choice id="right" font_size="18">选项1 我正确  使用RadioButton组件可以强制用户只能从一组选项中选择一项。该组件不需用于有两个RadioButton组件实例的组，在任何给定的情况下，都只有一个组成员被选中，选择组中的一个单选按钮将取消选择组内当前选定的单选按钮
+		<choice id="right" font_size="18">选项1 我正确  测试文本 测试文本 测试文本 测试文本 测试文本 测试文本 测试文本 测试文本 测试文本 测试文本 测试文本 测试文本 测试文本 测试文本 测试文本 测试文本 测试文本 测试文本 测试文本 测试文本
 		</choice>
 		<choice id="wrong" font_size="18">选项2 我是错的</choice>
 		<choice id="wrong" font_size="18">选项3 我是错的</choice>
