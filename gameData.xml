@@ -1,0 +1,199 @@
+<game>
+<name font_size="32">《报仁安书》文言知识闯关</name>
+<round id="1" name="基础知识" font_size="48">
+	<exercise>
+		<question font_size="18">第1题题干 这是问题</question>
+		<choice id="right" font_size="18">选项1 我正确  使用RadioButton组件可以强制用户只能从一组选项中选择一项。该组件不需用于有两个RadioButton组件实例的组，在任何给定的情况下，都只有一个组成员被选中，选择组中的一个单选按钮将取消选择组内当前选定的单选按钮
+		</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>	
+
+	</exercise>
+	<exercise>
+		<question font_size="18">第2题题干 这是问题</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="right" font_size="18">选项2 我正确</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+
+	</exercise>
+	<exercise>
+		<question font_size="18">第3题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+
+	</exercise>
+	<exercise>
+		<question font_size="18">第4题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+
+	</exercise>
+	<exercise>
+		<question font_size="18">第5题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+
+	</exercise>
+	<exercise>
+		<question font_size="18">第6题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+
+	</exercise>
+	<exercise>
+		<question font_size="18">第7题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+	</exercise>
+	<exercise>
+		<question font_size="18">第8题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+
+	</exercise>
+</round>
+<round id="2"  name="文言难点" font_size="48">
+	<exercise>
+		<question font_size="18">第1题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>	
+
+	</exercise>
+	<exercise>
+		<question font_size="18">第2题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+
+	</exercise>
+	<exercise>
+		<question font_size="18">第3题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+
+	</exercise>
+	<exercise>
+		<question font_size="18">第4题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+
+	</exercise>
+	<exercise>
+		<question font_size="18">第5题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+
+	</exercise>
+	<exercise>
+		<question font_size="18">第6题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+
+	</exercise>
+	<exercise>
+		<question font_size="18">第7题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+	</exercise>
+	<exercise>
+		<question font_size="18">第8题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+
+	</exercise>
+</round>
+<round id="3" name="把握主旨" font_size="48">
+	<exercise>
+		<question font_size="18">第三关 第1题题干 这是问题</question>
+		<choice id="right"  font_size="18">选项1 我正确</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>	
+
+	</exercise>
+	<exercise>
+		<question font_size="18">第2题题干 这是问题</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="right" font_size="18">选项2 我正确</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+
+	</exercise>
+	<exercise>
+		<question font_size="18">第3题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+
+	</exercise>
+	<exercise>
+		<question font_size="18">第4题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+
+	</exercise>
+	<exercise>
+		<question font_size="18">第5题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+
+	</exercise>
+	<exercise>
+		<question font_size="18">第6题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+
+	</exercise>
+	<exercise>
+		<question font_size="18">第7题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+	</exercise>
+	<exercise>
+		<question font_size="18">第8题题干</question>
+		<choice id="wrong" font_size="18">选项1 我是错的</choice>
+		<choice id="wrong" font_size="18">选项2 我是错的</choice>
+		<choice id="wrong" font_size="18">选项3 我是错的</choice>
+		<choice id="wrong" font_size="18">选项4 我是错的</choice>
+
+	</exercise>
+</round>
+</game>
